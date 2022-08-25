@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/MattyMags/semantic-release-sandbox/compare/v1.1.0...v1.2.0) (2022-08-25)
+
+
+### Features
+
+* **product:** add new button component ([3783255](https://github.com/MattyMags/semantic-release-sandbox/commit/37832557d53d3ce651261639139c9cace274c320))
+
 # [1.1.0](https://github.com/MattyMags/semantic-release-sandbox/compare/v1.0.0...v1.1.0) (2022-08-25)
 
 
