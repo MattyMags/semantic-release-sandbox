@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/MattyMags/semantic-release-sandbox/compare/v1.0.0...v1.1.0) (2022-08-25)
+
+
+### Features
+
+* new feature was added ([cb1a57c](https://github.com/MattyMags/semantic-release-sandbox/commit/cb1a57c4dbec9f3ac50cba79fb7cc7fbd6eac99c))
+* new file ([366f9d3](https://github.com/MattyMags/semantic-release-sandbox/commit/366f9d38dfec29159569b906859d61ff509e5db0))
+
 # 1.0.0 (2022-08-25)
 
 
