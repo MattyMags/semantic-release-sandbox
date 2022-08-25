@@ -21,7 +21,9 @@
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
-    "branch": "release/*",
-    "debug": true
+    "branches": "release/*",
+    "debug": true,
+    "repositoryUrl": "https://github.com/MattyMags/semantic-release-sandbox.git",
+    "dryRun": false
   }
 }
