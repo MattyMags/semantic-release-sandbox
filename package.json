@@ -27,5 +27,6 @@
     "debug": true,
     "repositoryUrl": "https://github.com/MattyMags/semantic-release-sandbox",
     "dryRun": false
-  }
+  },
+  "version": "1.0.0"
 }
