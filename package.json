@@ -21,6 +21,7 @@
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
-    "branch": "release/*"
+    "branch": "release/*",
+    "debug": true
   }
 }
