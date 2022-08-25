@@ -5,7 +5,6 @@
 
 * new feature was added ([cb1a57c](https://github.com/MattyMags/semantic-release-sandbox/commit/cb1a57c4dbec9f3ac50cba79fb7cc7fbd6eac99c))
 * new file ([366f9d3](https://github.com/MattyMags/semantic-release-sandbox/commit/366f9d38dfec29159569b906859d61ff509e5db0))
-* **product:** add new button component ([3783255](https://github.com/MattyMags/semantic-release-sandbox/commit/37832557d53d3ce651261639139c9cace274c320))
 
 # 1.0.0 (2022-08-25)
 
