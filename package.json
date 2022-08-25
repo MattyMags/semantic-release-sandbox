@@ -22,7 +22,7 @@
       "@semantic-release/git"
     ],
     "branches": [
-      "release/123"
+      "release/*"
     ],
     "debug": true,
     "repositoryUrl": "https://github.com/MattyMags/semantic-release-sandbox",
