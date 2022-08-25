@@ -23,7 +23,7 @@
     ],
     "branches": "release/*",
     "debug": true,
-    "repositoryUrl": "https://github.com/MattyMags/semantic-release-sandbox.git",
+    "repositoryUrl": "origin https://github.com/MattyMags/semantic-release-sandbox.git",
     "dryRun": false
   }
 }
