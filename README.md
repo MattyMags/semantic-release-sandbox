@@ -7,3 +7,5 @@
 ## Change 3 - fix: fix other bug
 
 ## Change 4 - fix: fix new new bug
+
+## Change 5 - feat: oh look a new feature
